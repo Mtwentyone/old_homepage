@@ -17,19 +17,19 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by by selecting a{' '}
-          <code className={styles.code}>section</code>
+          Get started by by selecting your{' '}
+          <code className={styles.code}>/Path</code>
         </p>
 
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+        <a href="https://mtwenty.one/home" className={styles.card}>
+            <h2>Official Website &rarr;</h2>
+            <p>Learn more about Mtwenty.one on our interactive website</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+        <div className={styles.grid}>
+          <a href="https://mtwenty.one/nextcloud" className={styles.card}>
+            <h2>Cloud Storage &rarr;</h2>
+            <p>Start storing all your Data on the Mtwenty.one Cloud Service</p>
           </a>
 
           <a
