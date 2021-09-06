@@ -46,7 +46,7 @@ export default function Home() {
           >
             <h2>Discord &rarr;</h2>
             <p>
-              Our official Discord Server.
+              Come and join our official Discord Server. We always miss kyle!
             </p>
           </a>
         </div>
