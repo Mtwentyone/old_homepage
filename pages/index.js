@@ -22,7 +22,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://mtwenty.one/nextcloud" className={styles.card}>
+          <a href="https://mtwenty.one/nextcloud" target="_blank" className={styles.card}>
             <h2>Cloud Storage &rarr;</h2>
             <p>Start storing all your Data on the Mtwenty.one Cloud Service</p>
           </a>
