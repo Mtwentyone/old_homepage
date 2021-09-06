@@ -21,32 +21,32 @@ export default function Home() {
           <code className={styles.code}>/Path</code>
         </p>
 
-        <a href="https://mtwenty.one/home" className={styles.card}>
-            <h2>Official Website &rarr;</h2>
-            <p>Learn more about Mtwenty.one on our interactive website</p>
-          </a>
-
         <div className={styles.grid}>
           <a href="https://mtwenty.one/nextcloud" className={styles.card}>
             <h2>Cloud Storage &rarr;</h2>
             <p>Start storing all your Data on the Mtwenty.one Cloud Service</p>
           </a>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <a href="https://mtwenty.one/home" className={styles.card}>
+            <h2>Official Website &rarr;</h2>
+            <p>Learn more about Mtwenty.one on our interactive website</p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://test.mtwenty.one"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Crypto Project by Mtwenty.one &rarr;</h2>
+            <p>Our Pancakeswap fork testnet environment for the BSC network</p>
+          </a>
+
+          <a
+            href="https://discord.com"
+            className={styles.card}
+          >
+            <h2>Discord &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Our official Discord Server.
             </p>
           </a>
         </div>
@@ -54,7 +54,7 @@ export default function Home() {
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://mtwenty.one"
           target="_blank"
           rel="noopener noreferrer"
         >
